@@ -52,7 +52,7 @@ header nav .header_logo img {
     height: 50px;
     border-radius: 100%;
     object-fit: cover;
-    border: 5px solid #fad819fd;
+    border: 5px solid #52545efd;
     cursor: pointer;
 }
 
@@ -110,12 +110,12 @@ section.main span {
 section.main p {
     position: relative;
     top: 50%;
-    border-right: 2px solid rgba(255, 255, 255, .75);
+    border-right: 2px solid rgba(187, 27, 27, 0.75);
     white-space: nowrap;
     overflow: hidden;
     color: #ebdd22;
     font-size: 13px;
-    animation: typewriter 4s steps(44) 1s 1 normal both, blinkTextCursor 530ms steps(44) infinite normal;
+    animation: typewriter 4s steps(60) 1s 1 normal both, blinkTextCursor 530ms steps(60) infinite normal;
 }
 
 section.main ul {
